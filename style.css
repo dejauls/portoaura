@@ -960,3 +960,21 @@ body::after{
     }
 
 }
+
+.btn-download{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    padding:14px 28px;
+    border:none;
+    border-radius:50px;
+    text-decoration:none;
+    color:#090909;
+    background:white;
+    font-weight:500;
+    transition:.3s ease;
+}
+
+.btn-download:hover{
+    transform:translateY(-3px);
+}
