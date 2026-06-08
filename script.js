@@ -1,6 +1,6 @@
 const texts = [
     "Portofolio Auravia Cinta",
-    "Teknik Informatika",
+    "Mahasiswa Informatika",
     "Perancangan Web",
     "Database Management",
     "Administrasi & Operasional Keuangan"
